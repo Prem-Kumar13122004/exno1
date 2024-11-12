@@ -183,6 +183,10 @@ df1 = df[z<3]
 df1
 ```
 ![image](https://github.com/user-attachments/assets/c3efb880-635b-47f5-a6dc-4e45d0f0a35b)
+```
 
+
+
+```
 # Result
 Hence the data was cleaned , outliers were detected and removed.
